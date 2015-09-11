@@ -1,3 +1,5 @@
 Nosso Metodo
 
-Comparar primeira carta com a carta seguinte e adiante. Se a carta seguinte for menor trocar, se for maior manter. Repitir o processo ate acabar as trocas.
+Comparar a carta "k" com  a carta seguinte, sendo k o range de A ate D.
+Se k menor que a carta seguinte mantem, caso contrario trocar.
+Repetir o processo ate acabarem todas as trocas.
