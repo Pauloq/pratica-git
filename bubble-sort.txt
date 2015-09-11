@@ -1,0 +1,3 @@
+Nosso Metodo
+
+Comparar primeira carta com a carta seguinte e adiante. Se a carta seguinte for menor trocar, se for maior manter. Repitir o processo ate acabar as trocas.
