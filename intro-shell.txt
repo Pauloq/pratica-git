@@ -1,0 +1,18 @@
+Intro-Shell
+
+Nós estamos em um sistema Linux.
+Pressionamos ctrl+alt+t para abrir o Terminal.
+Digitamos pwd na linha de comando para saber nosso Diretório(home do usuário).
+Digitamos ls para listar o conteúdo do nosso diretório atual.
+Digitamos  cd desktop para entrar no diretório Desktop.
+Digitamos ls para listar o conteúdo do nosso diretório atual.
+Digitamos  cd .. para voltarmos ao diretório anterior(home do usuário).
+Digitamos mkdir e criamos a pasta prática-shell.
+Digitamos cd prática-shell para entrarmos na pasta criada.
+Digitamos gedit intro-shell.txt e criamos o arquivo de texto.
+Escrevemos o passo a passo nesse arquivo e salvamos.
+Fechamos o arquivo .txt.
+No mesmo diretório digitamos gedit alunos.txt.
+Escrevemos no arquivo .txt a listagem dos alunos do grupo.
+Salvamos o arquivo e o fechamos.
+No Terminal digitamos exit
