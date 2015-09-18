@@ -14,4 +14,3 @@ Caso contrario, troca:
 Temp <- Carta i
 Carta i <- Carta j
 Carta j <- Temp
-
