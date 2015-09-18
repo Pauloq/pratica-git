@@ -1,0 +1,17 @@
+Nosso Metodo
+
+Comparar a carta "k" com  a carta seguinte, sendo k o range de A ate D.
+Se k menor que a carta seguinte mantem, caso contrario trocar.
+Repetir o processo ate acabarem todas as trocas.
+
+
+Metodo Bubble Sort:
+Para i indo de 0 ate n-2:
+Para j indo de i+1 ate n-1:
+Se a carta i < carta j:
+Matem:
+Caso contrario, troca:
+Temp <- Carta i
+Carta i <- Carta j
+Carta j <- Temp
+
